@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:oneshot="true">
+
+    <!--<item android:drawable="@drawable/brokenscreen12" android:duration="100"/>-->
+    <item android:drawable="@drawable/rsz_brokenscreen11" android:duration="40" />
+    <item android:drawable="@drawable/rsz_brokenscreen10" android:duration="40" />
+    <!--<item android:drawable="@drawable/rsz_brokenscreen9" android:duration="20" />-->
+    <item android:drawable="@drawable/rsz_brokenscreen8" android:duration="20" />
+    <!--<item android:drawable="@drawable/rsz_brokenscreen7" android:duration="20" />-->
+    <item android:drawable="@drawable/rsz_brokenscreen6" android:duration="20" />
+    <!--<item android:drawable="@drawable/rsz_brokenscreen5" android:duration="20" />-->
+    <item android:drawable="@drawable/rsz_brokenscreen4" android:duration="20" />
+    <!--<item android:drawable="@drawable/rsz_brokenscreen3" android:duration="20" />-->
+    <item android:drawable="@drawable/brokenscreen2" android:duration="20" />
+
+
+
+</animation-list>
